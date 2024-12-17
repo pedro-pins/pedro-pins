@@ -6,7 +6,7 @@ Sou Pedro Igor do Nascimento Santos, profissional de Tecnologia da Informação 
 
 Acredito no poder da colaboração para alcançar resultados de excelência e estou sempre em busca de aprender e aplicar novas tecnologias para enfrentar desafios complexos.
 
-🔗 LinkedIn: linkedin.com/in/pedro-pins
+🔗 LinkedIn: www.linkedin.com/in/pedropins/
 🌐 Site: www.pedro.pins.com.br
 
 <p align="left">
