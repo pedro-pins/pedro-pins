@@ -10,7 +10,7 @@ Acredito no poder da colaboração para alcançar resultados de excelência e es
 🌐 Site: www.pedro.pins.com.br
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/pedro-pins?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
