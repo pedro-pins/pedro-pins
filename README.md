@@ -34,55 +34,55 @@ Acredito no poder da colaboração para alcançar resultados de excelência e es
     align="left"
     alt="nginx"
     title="nginx" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
 />
 <img 
     align="left" 
     alt="openstack" 
     title="openstack"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="70px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original-wordmark.svg" 
 />
 <img 
     align="left" 
     alt="Linux" 
     title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
     align="left" 
     alt="docker"
     title="docker" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
 />
 <img 
     align="left" 
     alt="Vagrant" 
     title="Vagrant"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vagrant/vagrant-original.svg" 
 />
 <img 
     align="left" 
     alt="Ansible"
     title="Ansible" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" 
 />
 <img 
     align="left" 
     alt="AWS" 
     title="AWS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
@@ -90,42 +90,41 @@ Acredito no poder da colaboração para alcançar resultados de excelência e es
     align="left" 
     alt="debian" 
     title="debian"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" 
 />
 <img 
     align="left" 
     alt="Grafana" 
     title="Grafana"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
 <img 
     align="left" 
     alt="Portainer" 
     title="Portainer"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" 
 />
 <img 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
     alt="Photoshop" 
     title="Photoshop"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="50px" 
+    style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
 />
-
 <br/>
 <br/>
