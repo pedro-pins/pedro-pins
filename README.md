@@ -2,12 +2,12 @@
 
 **`Infra e um pouco mais`**
 
-Sou Pedro Igor do Nascimento Santos, profissional de Tecnologia da Informação com mais de 14 anos de experiência. Atualmente, estou cursando Gestão de TI na Estácio. Sou apaixonado por infraestrutura, otimização de processos e resolução de problemas, buscando sempre soluções inovadoras e eficientes.
+Sou Pedro Pins, profissional de Tecnologia da Informação com mais de 14 anos de experiência. Atualmente, estou cursando Gestão de TI. Sou apaixonado por infraestrutura, otimização de processos e resolução de problemas, buscando sempre soluções inovadoras e eficientes.
 
 Acredito no poder da colaboração para alcançar resultados de excelência e estou sempre em busca de aprender e aplicar novas tecnologias para enfrentar desafios complexos.
 
 🔗 LinkedIn: www.linkedin.com/in/pedropins/
-🌐 Site: www.pedro.pins.com.br
+🌐 Site: www.pedropins.com.br
 
 <p align="left">
     <a href="https://github.com/pedro-pins?tab=repositories&sort=stargazers">
