@@ -2,7 +2,7 @@
 
 **`Infra e um pouco mais`**
 
-Sou Pedro Pins, profissional de Tecnologia da Informação com mais de 14 anos de experiência. Atualmente, estou cursando Gestão de TI. Sou apaixonado por infraestrutura, otimização de processos e resolução de problemas, buscando sempre soluções inovadoras e eficientes.
+Sou Pedro Pins, profissional de Tecnologia da Informação com mais de 14 anos de experiência. Atualmente, estou cursando Gestão de TI.Por aqui criamos infraestrutura, otimização de processos e resolução de problemas, buscando sempre soluções inovadoras e eficientes.
 
 Acredito no poder da colaboração para alcançar resultados de excelência e estou sempre em busca de aprender e aplicar novas tecnologias para enfrentar desafios complexos.
 
